@@ -7,7 +7,8 @@ Raven is designed to use a PCB, but can be handwired if you desire. The case and
 ### Parts Needed
 - 42 MX style switches
 - 42 1N4148 through-hole diodes
-- 42 1u keycaps
+- 40 1u keycaps
+- 2 1.5u keycaps
 - 2 nice!nano v2 or suitable clone
 - 2 110 mAh 3.7v lithium ion battery
 - 8mm x 2mm rubber bumper (for case feet / pcb)
