@@ -1,0 +1,5 @@
+config SHIELD_ORTHOLEFT
+    def_bool $(shields_list_contains,ortholeft)
+
+config SHIELD_ORTHORIGHT
+    def_bool $(shields_list_contains,orthoright)

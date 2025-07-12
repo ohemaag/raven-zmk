@@ -1,0 +1,23 @@
+if SHIELD_ORTHOLEFT
+
+    config ZMK_KEYBOARD_NAME
+        default "orthoL"
+
+    config ZMK_SPLIT_BLE_ROLE_CENTRAL
+        default y
+
+endif
+
+if SHIELD_ORTHORIGHT
+
+    config ZMK_KEYBOARD_NAME
+        default "orthoR"
+
+endif
+
+if SHIELD_ORTHOLEFT || SHIELD_ORTHORIGHT
+
+    config ZMK_SPLIT
+        default y
+
+endif
