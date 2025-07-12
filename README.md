@@ -1,5 +1,5 @@
 # Raven - Custom 42 key split ergonomic keyboard 
-## **IMPORTANT PLEASE READ ALL**
+## **Documentation - IMPORTANT PLEASE READ ALL**
 This is my second keyboard project, the Raven (or Raven 42) named after the bird for its wing-like design and deep purple color, much like my original prototype. 
 
 Raven is designed to use a PCB, but can be handwired if you desire. The case and plate have been designed to be easily 3d printed. This keyboard does not utilize standoffs or screws, but is desinged to simply sit in the case, using rubber bumpers to prevent the pcb from moving while typing in or out of the case.
