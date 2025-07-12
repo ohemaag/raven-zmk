@@ -1,4 +1,4 @@
-# Raven - 42 key split ergonomic keyboard 
+# Raven - Custom 42 key split ergonomic keyboard 
 ## **IMPORTANT PLEASE READ ALL**
 This is my second keyboard project, the Raven (or Raven 42) named after the bird for its wing-like design and deep purple color, much like my original prototype. 
 
