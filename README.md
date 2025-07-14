@@ -24,6 +24,7 @@ A great way to improve acoustics of this or any board is a silicon pour. With so
 The gerber file provided can be uploaded to a website like JLCPCB or PCBWay to be manufactured for you. The total cost of the pcb should be around 20 dollars. (I have found that JLC is usually cheaper than PCBWay but you can check both) The PCB will come in one piece but has breakaway holes to be easily snapped in half.
 
 Note: When solderinig on the microcontroller, the top pins on the right and left will not be attached to the pcb to give space to attach the battery.
+
 ![top pcb](./raven_images/raven_pcb.jpeg)
 ![top pcb_with_components](./raven_images/raven_pcb_with_components.jpeg)
 ### Firmware
