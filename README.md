@@ -38,4 +38,4 @@ Note: When solderinig on the microcontroller, the top pins on the right and left
 ![top pcb](./raven_images/raven_pcb.jpeg)
 ![top pcb_with_components](./raven_images/raven_pcb_with_components.jpeg)
 ### Firmware
-I have provided my files for my ZMK config that you can use to change the keymap and recompile if you wish. I press B with my right hand, so you will likely need to change it. If you do not know how to edit a keymap or compile firmware, you can watch this youtube video, https://www.youtube.com/watch?v=O_urj-rF3bQ&t=2s, or read the ZMK documentation.
+I have provided my files for my ZMK config that you can use to change the keymap to your desired configuration and recompile if you wish. You likely will want to edit the keymap anyways, but I press B with my right hand, so you will likely need to change it. Recompiling is simple, but if you do not know how to edit a keymap or compile firmware, you can watch this youtube video, https://www.youtube.com/watch?v=O_urj-rF3bQ&t=2s, or read the ZMK documentation.
