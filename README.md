@@ -1,9 +1,11 @@
-# Raven - Custom 42 key split ergonomic keyboard 
+# Raven - Custom 42 key split ergonomic keyboard
+![top view](./raven_images/raven_top_view.jpeg)
 ## **Documentation - IMPORTANT PLEASE READ ALL**
 This is the second keyboard I've designed, the Raven (or Raven 42) named after the bird for its wing-like design and deep purple color, much like my original prototype. I desgined the case and plate in AutoDesk Fusion, and the PCB in KiCad.
 
 Raven is designed to use a PCB, but can be handwired if you desire. The case and plate have been designed to be easily 3d printed. This keyboard does not utilize standoffs or screws, but is desinged to simply sit in the case, using rubber bumpers to prevent the pcb from moving while typing in or out of the case.
 
+![bottom pcb](./raven_images/raven_bottom_pcb.jpeg)
 ### Parts Needed
 - 42 MX style switches
 - 42 1N4148 through-hole diodes
@@ -14,11 +16,19 @@ Raven is designed to use a PCB, but can be handwired if you desire. The case and
 - 8mm x 2mm rubber bumper (for case feet / pcb feet)
 - 11mm x 5 mm rubber bumper (for case feet)
 
+### Case Feet
+The indents for the rubber bumpers on the bottom of the case can be set up to have a positive incline if the 11x5 mm bumpers are put on the back only, or at a slight inward tilt if the 11x5mm bumpers are placed on the inward sides of the case.
+
+![bottom case](./raven_images/raven_case.jpeg)
+
+
 ### 3D Printing 
 When 3D printing the case and plate, I would recommend 100% infill or as close to 100% as possible to ensure the best acoustics. Lower infill = a more hollow sound.
 
 ### Optional Case Silicon Pour
 A great way to improve acoustics of this or any board is a silicon pour. With some simple 2 part silicone, that you can get from somewhere like Amazon, you can pour a thin layer of silicone at the bottom of the case. The holes in the bottom of the care are designed to hold the silicone layer better when fully cured.
+
+![silicone](./raven_images/raven_silicone.jpeg)
 
 ### PCB
 The gerber file provided can be uploaded to a website like JLCPCB or PCBWay to be manufactured for you. The total cost of the pcb should be around 20 dollars. (I have found that JLC is usually cheaper than PCBWay but you can check both) The PCB will come in one piece but has breakaway holes to be easily snapped in half.
