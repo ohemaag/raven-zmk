@@ -12,7 +12,7 @@ Raven is designed to use a PCB, but can be handwired if you desire. The case and
 - 42 1N4148 through-hole diodes
 - 40 1u keycaps
 - 2 1.5u keycaps
-- 2 nice!nano v2 or suitable clone (such as supermini nrf52840)
+- 2 nice!nano v2 microcontroller or suitable clone (such as supermini nrf52840)
 - 2 110 mAh 3.7v lithium ion battery
 - 8mm x 2mm rubber bumper (for case feet / pcb feet) - regular profile keycaps
 - 8mm x 4mm rubber bumper (for case feet / pcb feet) - very low profile keycaps
