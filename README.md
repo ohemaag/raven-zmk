@@ -26,7 +26,9 @@ The indents for the rubber bumpers on the bottom of the case can be set up to ha
 When 3D printing the case and plate, I would recommend 100% infill or as close to 100% as possible to ensure the best acoustics. Lower infill = a more hollow sound.
 
 ### Optional Case Silicon Pour
-A great way to improve acoustics of this or any board is a silicon pour. With some simple 2 part silicone, that you can get from somewhere like Amazon, you can pour a thin layer of silicone at the bottom of the case. The holes in the bottom of the care are designed to hold the silicone layer better when fully cured.
+A great way to improve acoustics of this or any board is a silicon pour. With some simple 2 part silicone, that you can get from somewhere like Amazon, you can pour a thin layer of silicone at the bottom of the case. The holes in the bottom of the care are designed to hold the silicone layer better when fully cured. This is not required for ensuring the pcb doesn't slide in the case; the rubber bumbers are more than enough.
+
+A total of 16 grams of liquid silicone in **each** case creates about a 1 mm layer at the bottom. That is 8 grams of each part if using a 2 part mizing silicone like I did. I wouldn't go over a 1-2 mm layer to make sure the board still easily be taking out of the case. 
 
 ![silicone](./raven_images/raven_silicone.jpeg)
 
