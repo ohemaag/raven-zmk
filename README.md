@@ -1,4 +1,4 @@
-# Raven - Custom 42 key split ergonomic keyboard
+# Raven - Custom 42 key split ortholinear keyboard
 ![top view](./raven_images/raven_top_view.jpeg)
 ## **Documentation - IMPORTANT PLEASE READ ALL**
 This is the second keyboard I've designed, the Raven (or Raven 42) named after the bird for its wing-like design and deep purple color, much like my original prototype. I desgined the case and plate in AutoDesk Fusion, and the PCB in KiCad.
