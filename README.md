@@ -37,9 +37,10 @@ A total of 16 grams of liquid silicone in **each** case creates about a 1 mm lay
 ### PCB
 The gerber file provided can be uploaded to a website like JLCPCB or PCBWay to be manufactured for you. The total cost of the pcb should be around 20 dollars. (I have found that JLC is usually cheaper than PCBWay but you can check both) The PCB will come in one piece but has breakaway holes to be easily snapped in half.
 
-Note: When solderinig on the microcontroller, the top pins on the right and left will not be attached to the pcb to give space to attach the battery. Additionally, make sure that diode strip is facing down.
+Note: When solderinig on the microcontroller, the top pins on the right and left will not be attached to the pcb to give space to attach the battery. Additionally, make sure that diode strip is facing down, or keymap will be mirrored.
 
 ![top pcb](./raven_images/raven_pcb.jpeg)
 ![top pcb_with_components](./raven_images/raven_pcb_with_components.jpeg)
 ### Firmware
 I have provided my files for my ZMK config that you can use to change the keymap to your desired configuration and recompile if you wish. You likely will want to edit the keymap anyways, but I press B with my right hand, so you will likely need to change it. Recompiling is simple, but if you do not know how to edit a keymap or compile firmware, you can watch this youtube video, https://www.youtube.com/watch?v=O_urj-rF3bQ&t=2s, or read the ZMK documentation.
+
