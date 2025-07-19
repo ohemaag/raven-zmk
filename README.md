@@ -6,6 +6,7 @@ This is the second keyboard I've designed, the Raven (or Raven 42) named after t
 Raven is designed to use a PCB, but can be handwired if you desire. The case and plate have been designed to be easily 3d printed. This keyboard does not utilize standoffs or screws, but is desinged to simply sit in the case, using rubber bumpers to prevent the pcb from moving while typing in or out of the case.
 
 ![bottom pcb](./raven_images/raven_bottom_pcb.jpeg)
+*Note: this is my prototype final PCB is slightly different / includes reset button
 ### Parts Needed
 - Raven PCB (Gerber available here)
 - 42 MX style switches
@@ -24,7 +25,6 @@ Raven is designed to use a PCB, but can be handwired if you desire. The case and
 The indents for the rubber bumpers on the bottom of the case can be set up to have a positive incline if the 11x5 mm bumpers are put on the back only, or at a slight inward tilt if the 11x5mm bumpers are placed on the inward sides of the case.
 
 ![bottom case feet](./raven_images/raven_case_feet.jpeg)
-
 
 ### 3D Printing 
 When 3D printing the case and plate, I would recommend 100% infill or as close to 100% as possible to ensure the best acoustics. Lower infill = a more hollow sound.
