@@ -36,7 +36,7 @@ A total of 16 grams of liquid silicone in **each** case creates about a 1 mm lay
 ![silicone](./raven_images/raven_silicone.jpeg)
 
 ### PCB
-The gerber file provided can be uploaded to a website like JLCPCB or PCBWay to be manufactured for you. The total cost of the pcb should be around 20 dollars. (I have found that JLC is usually cheaper than PCBWay but you can check both) The PCB will come in one piece but has breakaway holes to be easily snapped in half.
+The gerber file provided can be uploaded to a website like JLCPCB or PCBWay to be manufactured for you. The total cost of the pcb should be around 15-20 dollars if you choose the cheapest shipping. (I have found that JLC is usually cheaper than PCBWay but you can check both) The PCB will come in one piece but has breakaway holes to be easily snapped in half.
 
 Note: When solderinig on the microcontroller, the top pins on the right and left will not be attached to the pcb to give space to attach the battery. Additionally, make sure that diode strip is facing down, or keymap will be mirrored.
 
