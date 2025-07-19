@@ -5,7 +5,7 @@ This is the second keyboard I've designed, the Raven (or Raven 42) named after t
 
 Raven is designed to use a PCB, but can be handwired if you desire. The case and plate have been designed to be easily 3d printed. This keyboard does not utilize standoffs or screws, but is desinged to simply sit in the case, using rubber bumpers to prevent the pcb from moving while typing in or out of the case.
 
-![bottom pcb](./raven_images/raven_bottom_pcb.jpeg)
+![bottom pcb](./raven_images/raven_bottom_feet.jpeg)
 *Note: this is my prototype final PCB is slightly different / includes reset button
 ### Parts Needed
 - Raven PCB (Gerber available here)
@@ -41,8 +41,8 @@ The gerber file provided can be uploaded to a website like JLCPCB or PCBWay to b
 
 Note: When solderinig on the microcontroller, the top pins on the right and left will not be attached to the pcb to give space to attach the battery. Additionally, make sure that diode strip is facing down, or keymap will be mirrored.
 
-![top pcb](./raven_images/raven_pcb.jpeg)
 ![top pcb_with_components](./raven_images/raven_pcb_with_components.jpeg)
+![top pcb](./raven_images/raven_bottom_pcb.jpeg)
 ### Firmware
 I have provided my files for my ZMK config that you can use to change the keymap to your desired configuration and recompile if you wish. You likely will want to edit the keymap anyways, but I press B with my right hand, so you will likely need to change it. Recompiling is simple, but if you do not know how to edit a keymap or compile firmware, you can watch this youtube video, https://www.youtube.com/watch?v=O_urj-rF3bQ&t=2s, or read the ZMK documentation.
 
