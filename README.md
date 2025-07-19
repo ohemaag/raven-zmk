@@ -7,6 +7,7 @@ Raven is designed to use a PCB, but can be handwired if you desire. The case and
 
 ![bottom pcb](./raven_images/raven_bottom_feet.jpeg)
 **For best acoustics place bottom bumpers in the middle**
+
 *Note: this is my prototype, final PCB is slightly different / includes reset button
 ### Parts Needed
 - Raven PCB (Gerber available here)
